@@ -4,12 +4,14 @@
 - 🔭 I’m currently working on **ReactJs**
 
 - 🌱 I’m currently learning **React Native**
-
+  
+- 💬 Ask me about **React, JavaScript, HTML, CSS**
+  
+- 📫 How to reach me **urvashi.8520@gmail.com**
+  
 - 👨‍💻 My Portfolio [https://urvashi-sharma-portfolio.netlify.app/](https://urvashi-sharma-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS**
 
-- 📫 How to reach me **urvashi.8520@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
