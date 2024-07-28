@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ReactJs**
 
-- 🌱 I’ve done my internship from **Nineleaps**. And the project I worked on was an Expense Manangement Mobile Apllication built using **React Native**
+- 🌱 I’ve done my internship from **Nineleaps**. And the project I worked on was an Expense Manangement Mobile Application developed using **React Native ,Typescript and CSS**
   
 - 💬 Ask me about **React, JavaScript, HTML, CSS**
   
