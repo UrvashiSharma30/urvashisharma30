@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Urvashi Sharma</h1>
-<h3 align="center">A passionate Front-End Developer from Delhi</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on **ReactJs**
+- 🔭 I’m currently working on **Python**
 
 - 🌱 I’ve done my internship from **Nineleaps**. And the project I worked on was an Expense Manangement Mobile Application developed using **React Native ,Typescript and CSS**
   
